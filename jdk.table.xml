@@ -1,0 +1,168 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Android API 20 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_112&quot;" />
+      <homePath value="D:/jar/asandroid-sdks" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/jar/asandroid-sdks/platforms/android-20/android.jar!/" type="simple" />
+            <root url="file://D:/jar/asandroid-sdks/platforms/android-20/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/jar/asandroid-sdks/sources/android-20" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-20" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 21 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.4&quot;" />
+      <homePath value="D:\jar\asandroid-sdks" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/jar/asandroid-sdks/platforms/android-21/android.jar!/" type="simple" />
+            <root url="file://D:/jar/asandroid-sdks/platforms/android-21/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/jar/asandroid-sdks/sources/android-21" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-21" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 27 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.4&quot;" />
+      <homePath value="D:\jar\asandroid-sdks" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/jar/asandroid-sdks/platforms/android-27/android.jar!/" type="simple" />
+            <root url="file://D:/jar/asandroid-sdks/platforms/android-27/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/jar/asandroid-sdks/sources/android-27" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-27" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 28 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.4&quot;" />
+      <homePath value="D:\jar\asandroid-sdks" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://D:/jar/asandroid-sdks/platforms/android-28/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/jar/asandroid-sdks/platforms/android-28/android.jar!/" type="simple" />
+            <root url="file://D:/jar/asandroid-sdks/platforms/android-28/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/jar/asandroid-sdks/sources/android-28" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-28" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_112&quot;" />
+      <homePath value="D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/src.zip!/" type="simple" />
+            <root url="jar://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
