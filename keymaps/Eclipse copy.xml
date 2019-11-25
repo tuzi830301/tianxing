@@ -1,14 +1,29 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
   <action id="ChangesView.SetDefault" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="Compile">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorSplitLine" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
   <action id="Groovy.Shell.Execute" />
   <action id="KotlinShellExecute" />
   <action id="SaveAll" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="UpdateFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
   <action id="ViewSource" />
 </keymap>
