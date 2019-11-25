@@ -1,6 +1,14 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ChangesView.SetDefault" />
   <action id="Compile">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
+  <action id="Groovy.Shell.Execute" />
+  <action id="KotlinShellExecute" />
   <action id="SaveAll" />
+  <action id="ViewSource" />
 </keymap>
