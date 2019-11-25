@@ -23,10 +23,23 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="RunToCursor" />
   <action id="SaveAll" />
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="UpdateFiles">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="ViewSource" />
 </keymap>
