@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\ScCloud-web\src\main\java\com\scinfo\erp\wms\controller\wh\WmsWhContoller.java [ScCloud-web]'" />
-    <option name="defaultScopeName" value="File '...\ScCloud-web\src\main\java\com\scinfo\erp\wms\controller\wh\WmsWhContoller.java [ScCloud-web]'" />
-    <option name="SEARCH_SCOPE" value="File '...\ScCloud-web\src\main\java\com\scinfo\erp\wms\controller\wh\WmsWhContoller.java [ScCloud-web]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
