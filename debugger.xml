@@ -78,7 +78,9 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="valueLookupDelay" value="0" />
+    </data-views>
     <general />
     <debuggers>
       <debugger id="javascript">
