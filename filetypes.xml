@@ -1,9 +1,5 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.gitignore;*.iml;.gradle;.idea;.svn;build;gen;gradle;gradlew*;release;" />
-    <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-    </extensionMap>
+    <ignoreFiles list="*.gitignore;*.iml;.gradle;.idea;.svn;build;gen;gradle;gradlew*;release;target;" />
   </component>
 </application>
