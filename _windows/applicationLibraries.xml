@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="lib">
+    <library name="java">
       <CLASSES>
         <root url="file://D:/tool/MyEclipse/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib" />
       </CLASSES>
