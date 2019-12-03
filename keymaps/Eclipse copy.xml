@@ -1,4 +1,9 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ChangesView.SetDefault" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
@@ -8,10 +13,16 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt g" />
   </action>
+  <action id="Debugger.EditArrayFilter" />
+  <action id="Debugger.EditCustomField" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorSplitLine" />
   <action id="EditorToggleCase">
@@ -23,8 +34,18 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl e" />
@@ -32,6 +53,9 @@
   <action id="RunToCursor" />
   <action id="SaveAll" />
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="SwitcherRecentEditedChangedToggleCheckBox">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -43,6 +67,8 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="ViewSource" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
