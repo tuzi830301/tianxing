@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="ChangesView.Rename">
@@ -18,12 +21,20 @@
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="CopyPaths" />
+  <action id="CopyReference" />
   <action id="DatabaseView.CopyDdlAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
@@ -55,6 +66,10 @@
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ShowUmlDiagram" />
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
   </action>
   <action id="SwitcherRecentEditedChangedToggleCheckBox">
     <keyboard-shortcut first-keystroke="ctrl r" />
