@@ -81,6 +81,9 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <mouse-shortcut keystroke="alt button3" />
+  </action>
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
