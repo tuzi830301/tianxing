@@ -14,9 +14,10 @@
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="properties.expanded.codegen" value="true" />
+      <entry key="newform.buttonbar" value="ok" />
       <node name="forms">
         <entry key="selection-2018961999" value="this" />
-        <entry key="selection167935317" value="this" />
+        <entry key="selection167935317" value="contentPanel" />
       </node>
     </node>
   </component>
