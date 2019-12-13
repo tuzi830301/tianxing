@@ -1,7 +1,7 @@
 <application>
   <component name="JFormDesigner">
     <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.IntelliJLaf" />
-    <entry key="license.filechooser.lastdirpath" value="C:\Users\star\Desktop\JFormDesigner" />
+    <entry key="license.filechooser.lastdirpath" value="C:\Users\star\Desktop\JFormDesigner\help" />
     <entry key="license.filechooser.size" value="621, 326" />
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="com.jformdesigner.runtime.NullLayout" />
