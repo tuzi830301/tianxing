@@ -3,11 +3,21 @@
     <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.IntelliJLaf" />
     <entry key="license.filechooser.lastdirpath" value="C:\Users\star\Desktop" />
     <entry key="license.filechooser.size" value="621, 326" />
+    <entry key="updates.lastcheckedversion" value="6.0.6.2.195" />
+    <entry key="updates.lastchecked" value="1576219956893" />
+    <entry key="updates.version.6.0.6.4.204" value="type=free;message=&lt;html&gt;An update for JFormDesigner IntelliJ IDEA plug-in is available: &lt;b&gt;6.0.6.4&lt;/b&gt; (Build&amp;nbsp\;204). &lt;a href=&quot;https://www.formdev.com/jformdesigner/changelog/6/?piwik_campaign=check-for-updates#6_0_6_4&quot;&gt;Change&amp;nbsp\;Log&lt;/a&gt;&amp;nbsp\;&amp;nbsp\;&lt;a href=&quot;https://www.formdev.com/jformdesigner/download/archive/?piwik_campaign=check-for-updates&quot;&gt;Download&lt;/a&gt;&lt;/html&gt;" />
+    <entry key="updates.version.7.0.0.6.255" value="type=free;message=&lt;html&gt;A (free) new version of JFormDesigner IntelliJ IDEA plug-in is available: &lt;b&gt;7.0.0.6&lt;/b&gt; (Build&amp;nbsp\;255). &lt;a href=&quot;https://www.formdev.com/jformdesigner/whatsnew/7/?piwik_campaign=check-for-updates&quot;&gt;What's&amp;nbsp\;New&lt;/a&gt;&amp;nbsp\;&amp;nbsp\;&lt;a href=&quot;https://www.formdev.com/jformdesigner/download/?piwik_campaign=check-for-updates&quot;&gt;Download&lt;/a&gt;&lt;/html&gt;" />
+    <entry key="updates.infoshown" value="true" />
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="com.jformdesigner.runtime.NullLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JFrame" />
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
+      <entry key="properties.expanded.codegen" value="true" />
+      <node name="forms">
+        <entry key="selection-2018961999" value="this" />
+        <entry key="selection167935317" value="this" />
+      </node>
     </node>
   </component>
 </application>
