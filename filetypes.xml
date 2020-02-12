@@ -1,5 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.gitignore;*.iml;.gradle;.idea;.svn;build;gen;gradle;gradlew*;overlays;release;target;" />
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+    </extensionMap>
   </component>
 </application>
