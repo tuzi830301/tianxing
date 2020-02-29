@@ -38,6 +38,10 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorPasteFromX11" />
   <action id="EditorSplitLine" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
@@ -48,6 +52,9 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="OptimizeImports">
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
