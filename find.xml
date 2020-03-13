@@ -8,8 +8,9 @@
     <mask>*.xm</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
