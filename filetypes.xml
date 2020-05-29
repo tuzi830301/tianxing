@@ -3,6 +3,7 @@
     <ignoreFiles list="*.gitignore;*.iml;.gradle;.idea;.svn;build;gen;gradle;gradlew*;overlays;release;target;" />
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="cab" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
