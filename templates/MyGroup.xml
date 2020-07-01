@@ -1,9 +1,9 @@
 <templateSet group="MyGroup">
-  <template name="*" value="*&#10; * @Description:&#10; * @Author: tianxing&#10;        * @Date: $date$ $time$&#10;$param$&#10;        $return$&#10; **/" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="*" value="*&#10; * @Description:&#10; * @Author: tianxing&#10; * @Date: $date$ $time$&#10;$param$&#10;$return$&#10; **/" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="" defaultValue="groovyScript(&quot;if(\&quot;${_1}\&quot;.length() == 2) {return '';} else {def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();for(i = 0; i &lt; params.size(); i++) {if(i==0){result+='* @param ' + params[i] + ': '}else{result+='\\n' + ' * @param ' + params[i] + ': '}}; return result;}&quot;, methodParameters());" alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="groovyScript(&quot;def returnType = \&quot;${_1}\&quot;; def result = '* @return: ' + returnType; return result;&quot;, methodReturnType()); " alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
