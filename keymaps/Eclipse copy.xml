@@ -62,6 +62,9 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ReformatCode">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
