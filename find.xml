@@ -13,7 +13,7 @@
     <mask>*.j</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
