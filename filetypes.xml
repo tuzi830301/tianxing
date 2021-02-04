@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.gitignore;*.iml;.gradle;.idea;.svn;build;gen;gradle;gradlew*;overlays;release;target;" />
     <extensionMap>
+      <mapping ext="vue" type="HTML" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="cab" type="PLAIN_TEXT" />
