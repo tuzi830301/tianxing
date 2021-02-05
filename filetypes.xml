@@ -6,6 +6,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="cab" type="PLAIN_TEXT" />
+      <removed_mapping ext="vue" approved="true" type="Vue.js" />
+      <removed_mapping ext="vue" approved="true" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
