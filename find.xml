@@ -14,11 +14,11 @@
     <mask>*.pom</mask>
     <mask>*.j</mask>
     <mask>*.css</mask>
-    <mask>pom.xml</mask>
     <mask>*java</mask>
     <mask>*xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
