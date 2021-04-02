@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decoration" />
       <item value="拍照" />
       <item value="解密" />
       <item value="报备" />
@@ -31,7 +32,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="ENGLISH" value="24" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="SPANISH" value="2" />
