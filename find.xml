@@ -19,5 +19,6 @@
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.pom</mask>
+    <mask>*.prop</mask>
   </component>
 </application>
