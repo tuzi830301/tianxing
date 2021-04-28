@@ -8,7 +8,6 @@
     <mask>*.html</mask>
     <mask>*.gradle</mask>
     <mask>Ext*.js</mask>
-    <mask>*.pom</mask>
     <mask>*.j</mask>
     <mask>*java</mask>
     <mask>*xml</mask>
@@ -19,5 +18,6 @@
     <mask>test.java</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.pom</mask>
   </component>
 </application>
