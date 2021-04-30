@@ -1,0 +1,5 @@
+<application>
+  <component name="PhoneGapSettings">
+    <option name="executablePath" value="D:\tool\nodejs\cordova.cmd" />
+  </component>
+</application>
