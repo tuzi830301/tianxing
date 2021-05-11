@@ -42,6 +42,10 @@
           <option name="url" value="https://git.itechhero.com.cn/project/scf/prj-scf-uniapp" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.7dingdong.com/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\asjavaApp" />
