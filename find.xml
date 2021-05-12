@@ -13,12 +13,12 @@
     <mask>*xml</mask>
     <mask>pom.xml</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>test.java</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.pom</mask>
     <mask>*.prop</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
