@@ -18,7 +18,7 @@
     <mask>*.js</mask>
     <mask>*.pom</mask>
     <mask>*.prop</mask>
-    <mask>*.xml</mask>
     <mask>*.html</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
